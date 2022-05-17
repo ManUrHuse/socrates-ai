@@ -65,7 +65,7 @@ different kinds of logical fallacies and give examples, but I don't know if thes
 or, indeed, if this project would be allowed to use them (although I can't see why not).
 
 If no such sources can be found, or if they don't have enough examples, I believe the Internet can provide all the training data needed. It would, however, take a
-substantial effort to find, analyse and classify the data. The best way to do it would probably be to concentrate on when type of fallacy at a time, and then
+substantial effort to find, analyse and classify the data. The best way to do it would probably be to concentrate on one type of fallacy at a time, and then
 develop the solution incrementally.
 
 <!--
