@@ -9,10 +9,15 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Making valid arguments and drawing conclusions that follow from the premises can be hard, which anyone who has ever gotten involved in a discussion can attest to. 
+The idea behind this project is to examine if artificial intelligence, AI, can be used to build an application that can help us identify when the arguments used, 
+by ourselves or by other people, are fallacious.
 
 
 ## Background
+
+Arguments are the bread and butter of human reasoning. The quality of the conclusions we reach and the decisions we make usually depend on the validity of the
+arguments we put forward, and using invalid arguments - wether intionally or by oversight - can easily derail a discussion.
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
