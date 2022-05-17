@@ -31,7 +31,7 @@ thought. And that is, unfortunately, often what happens, especially in discussio
 The idea behind this solution is to examine if it's possible to use natural language processing (NLP) to train an AI application to recognise different kinds of
 logical fallacies and then apply those categories to real-life examples. Analysing written examples would be the logical(!) first step, and if a working solution
 can in fact be constructed, the easiest way to make it available would probably be through an online service of some kind. An example would be a website where 
-we can paste or upload our text, have it analysed, and then be able to copy or download the assessment for further work improving our arguments.
+we can paste or upload our text, have it analysed, and then be able to copy or download the assessment for further work on improving our arguments.
 
 <!--
 
@@ -60,9 +60,13 @@ main()
 
 ## Data sources and AI methods
 <!-- Where does your data come from? Do you collect it yourself or do you use data collected by someone else? -->
-At this point, no attempt has been made to find sources of texts with already classified examples fallacious arguments. I know there are webpages that list
+At this point, no attempt has been made to find sources of texts with already classified examples of fallacious arguments. I know there are webpages that list
 different kinds of logical fallacies and give examples, but I don't know if these can be easily "harvested", if there's enough of them to serve as training data,
 or, indeed, if this project would be allowed to use them (although I can't see why not).
+
+If no such sources can be found, or if they don't have enough examples, I believe the Internet can provide all the training data needed. It would, however, take a
+substantial effort to find, analyse and classify the data. The best way to do it would probably be to concentrate on when type of fallacy at a time, and then
+develop the solution incrementally.
 
 <!--
 
@@ -80,15 +84,16 @@ If you need to use links, here's an example:
 <!--
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 -->
-To be fair, I have no idea what I am getting myself into. Can AI an NLP even be used to do what I am proposing, and, if so, what would it take to do it?
+To be fair, I have no idea what it would take to pull this off. Can AI and NLP even be used to do what I am proposing, and, if so, what would it take to do it?
 At this stage I must admit that I don't know.
 
 ## What next?
 <!--
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on?
+How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on?
 -->
-If it is indeed possible to create a solution capable of analysing arguments in a text, an obvious next stage would of course be to try to analyse spoken material.
-It would be really interesting to see a political debate where the speakers' arguments are analysed in real time by a dispassionate and impartial "referee". 
+If it actually is possible to create a solution capable of analysing arguments in a text, an obvious next stage would of course be to try to analyse spoken
+material. It would be really interesting to see a political debate where the speakers' arguments are analysed in real time by a dispassionate and impartial
+"referee". 
 
 ## Acknowledgments
 
