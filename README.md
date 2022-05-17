@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Tu Quoque
+# The Socrates Project
 Make your arguments better with AI
 
 Final project for the Building AI course
@@ -28,7 +28,7 @@ logical fallacies and then apply those categories to real-life examples. Analysi
 can in fact be constructed, the easiest way to make it available would probably be through an online service of some kind. An example would be a site where one can paste or upload one's text, have it analysed, and then be able to copy or download the assessment for further work improving one's arguments.
 
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://)
+![Socrates](https://github.com/ManUrHuse/socrates-ai/blob/main/MAntokolski_Death_of_Socrates.JPG)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://" width="300">
