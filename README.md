@@ -16,22 +16,17 @@ by ourselves or by other people, are fallacious.
 
 ## Background
 
-Arguments are the bread and butter of human reasoning. The quality of the conclusions we reach and the decisions we make usually depend on the validity of the
-arguments we put forward, and using invalid arguments - wether intionally or by oversight - can easily derail a discussion.
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Arguments are the bread and butter of human reasoning. The quality of the conclusions we reach and the decisions we make to a large degree depend on the validity
+of the arguments we put forward, and using invalid arguments - whether intentionally or by oversight - can easily derail a discussion or a train of thought. And
+that is, unfortunately, often what happens, especially in discussions where feelings run high and when a lot is at stake.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The idea behind this solution is to examine if it's possible to use natural language processing to train an AI application to recognise different kinds of
+logical fallacies and then apply those categories to real-life examples. Analysing written examples would be the logical(!) first step, and if a working solution
+can in fact be constructed, the easiest way to make it available would probably be through an online service of some kind. An example would be a site where one can paste or upload one's text, have it analysed, and then be able to copy or download the assessment for further work improving one's arguments.
 
-Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://)
 
