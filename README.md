@@ -31,7 +31,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Socrates](https://github.com/ManUrHuse/socrates-ai/blob/main/MAntokolski_Death_of_Socrates.JPG)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://" width="300">
+<img src="https://github.com/ManUrHuse/socrates-ai/blob/main/MAntokolski_Death_of_Socrates.JPG" width="300">
 
 This is how you create code examples:
 ```
