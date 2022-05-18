@@ -94,7 +94,7 @@ How could your project grow and become something even more? What kind of skills,
 If it actually is possible to create a solution capable of analysing arguments in a text, an obvious next stage would of course be to try to analyse spoken
 material. It would be really interesting to see a political debate where the speakers' arguments are analysed in real time by a dispassionate and impartial
 "referee". At the moment, though, that seems more or less like science fiction. A more realistic application in the short term would perhaps be owners of social
-media platforms using an application of the service to identify users who willfully and repeatedly haress people and/or sabotage discussions by using ad hominem
+media platforms using similar techniques to identify users who intentionally and repeatedly haress people and/or sabotage discussions by using ad hominem
 and other destructive rhetorical practices.
 
 ## Acknowledgments
@@ -102,4 +102,4 @@ and other destructive rhetorical practices.
 * Statue of Socrates: Mark Antokolski, _Death of Socrates_ (1875), [photo from the Hermitage by Alex Bakharev](https://sv.m.wikipedia.org/wiki/Fil:MAntokolski_Death_of_Socrates.JPG), edited by Szczebrzeszynski / public domain
 
 ## License
-See the [LICENSE](https://github.com/ManUrHuse/socrates-project/blob/main/LICENSE) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/ManUrHuse/socrates-project/blob/main/LICENSE.md) file for license rights and limitations (MIT).
